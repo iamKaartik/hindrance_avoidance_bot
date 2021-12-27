@@ -1,0 +1,9 @@
+#You first need to download some of the softwares. They are:-
+->Arduino IDE
+->Proteus 
+(You also need to download some of the arduino libraries. You can search them on YouTube)
+
+#Then you need make the software design in proteus.
+#In the end, you need to run the code using arduino IDE and generate the HEX code. And now your bot is ready to avoid obstacle.
+
+Thank u :)
